@@ -1,0 +1,7 @@
+export const SELECTOR = "SELECTOR";
+
+export const GET_DATA_REQUEST = `${SELECTOR}/GET_DATA_REQUEST`;
+export const SET_DATA_REQUEST = `${SELECTOR}/SET_DATA_REQUEST`;
+
+export const FAILURE = `${GET_DATA_REQUEST}/FAILURE`;
+export const LOADING = `${GET_DATA_REQUEST}/LOADING`;

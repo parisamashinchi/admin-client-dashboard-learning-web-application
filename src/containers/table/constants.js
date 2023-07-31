@@ -1,0 +1,10 @@
+export const TABLE = "Table";
+export const ENTITIES = "Entities";
+export const GET_PAGE = TABLE + "/GET_PAGE";
+export const SET_ALL = TABLE + "/SET_ALL";
+export const REMOVE = TABLE + "/REMOVE";
+export const LOADING = TABLE + "/LOADING";
+export const FAILURE = TABLE + "/FAILURE";
+export const DEFAULT_PAGE_NUMBER = 1;
+export const DEFAULT_PAGE_SIZE = 10;
+export const SET_COURSE_ID = "SET_COURSE_ID";
